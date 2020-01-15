@@ -1,7 +1,7 @@
-Ejemplo de un archivo 
+Esta es la historia de Freddy Vega
 
-con 
+Freddy Vega tiene 32 años y nació en Colombia
 
-git
+Anita Platzi tiene 41 años y nació en Internet
 
-nuevos cambios
+Mañana nos enfocaremos en su vida laboral
